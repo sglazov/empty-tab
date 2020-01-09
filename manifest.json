@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Пустая новая вкладка",
   "short_name": "Пустая новая вкладка",
-  "author": "Sergey Glazov <github@4enki.ru> (https://github.com/4enki)",
+  "author": "Sergey Glazov <github@sglazov.ru> (https://github.com/sglazov)",
   "version": "0.2.0",
   "icons": {
     "128": "icon_128.png"
